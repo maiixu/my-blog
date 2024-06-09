@@ -48,63 +48,9 @@ Please check out my [LinkedIn](https://www.linkedin.com/in/maixu/) and [GitHub](
 
 ## 🌎 About Blog
 
-- Blog framework: **Hexo**
-- Theme: **Icarus**
-- Static Storage: **Github Pages**
-- Domain and CDN: **namecheap**
-
-## ✍️ Changelog
-
-### 2022-08-14
-- [x] Use custom domain name
-- [x] Support HTTPS security encryption
-
-### 2022-08-21
-- [x] Design website favicon
-
-### 2022-09-03
-- [x] Redesign layout of bottom left footer
-  - [x] Version information
-  - [x] Site visit statistics
-  - [x] Greeting message
-
-### 2022-09-10
-- [x] Configure profile section
-  - [x] Homepage link
-  - [x] Email me
-  - [x] CV download
-
-### 2022-09-25
-- [x] Enhance visual experience for cards
-  - [x] Cover images and summaries
-  - [x] Tags
-
-### 2022-10-02
-- [x] Add fade-out effect for hovering over cards
-- [x] Change homepage tag colors for both day and night modes
-
-### 2022-10-15
-- [x] Support two-column layout
-- [x] Adjust article card width
-- [x] Add floating table of contents component
-
-### 2022-10-30
-- [x] Redesign scroll bar style
-
-### 2022-11-13
-- [x] Add Night mode
-  - [x] Background with animated star sky
-  - [x] Adapted for mobile devices
-
-### 2022-11-20
-- [x] Integrate comment with GitHub issues
-- [x] Support pinned articles on homepage
-
-### 2022-11-29
-- [x] Standardize article routing
-- [x] Support email RSS subscription for blog updates
-
-### 2023-08-01
-- [ ] Migrate to Hugo
+- Static site generator: **Hugo**
+- Theme: **Archie**
+- Hosting: **Cloudflare Pages**
+- Domain: **Namecheap**
 
 ![](https://raw.githubusercontent.com/maizehsu/FigureBed/main/asset/2024/03/26/20240326141123.jpg)

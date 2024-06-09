@@ -24,23 +24,17 @@ tags: ["影评"]
 
 ### 用于打印接待员身体的 3D 打印机
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-003513.png" width="80%" alt="三个圆圈的形状其实在致敬隔壁达斯米奇">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-003513.png" width="80%" title="三个圆圈的形状其实在致敬隔壁达斯米奇" >}}
 
 每季片头都有这样的接待员身体打印机，强调 Host 由人类创造，和人类是 **creator 和 creation** 的关系。德妹常常挂在嘴边的一句话 `We are the reflections of the people who made us ` 正是在说这件事情。尽管 Host 在生理和智力上比 Human 更加 superior ，他们在觉醒之后却依旧受到人类情感，欲望的制约。这段在 S4 中有很多不错的呼应，多体现在**接待员受人类影响之后，对人类意志的继承上**，之后在威廉的角色分析里展开聊。
 
 ### 自动钢琴
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-004342.png" width="80%" alt="希望未来也能有自动演奏的吉他">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-004342.png" width="80%" title="希望未来也能有自动演奏的吉他" >}}
 
 西部世界园区中的自动钢琴，是从第一季开始就频繁出现在 WW 系列中的意向。打孔的乐谱象征着人类为接待员撰写的 Storyline ，自动钢琴象征着 Host 本身，看似没有人操控他们，实际说的每一句话，每一个举动都 being programmed beforehead 。**琴谱上的乐章由钢琴重复播放，象征着接待员们日复一日重复着自己的 Storyline。**
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-162111.jpg" width="80%" alt="很像小时候玩的手摇音乐盒">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-162111.jpg" width="80%" title="很像小时候玩的手摇音乐盒" >}}
 
 上图出自 S01E02 在梅芙的酒吧。伴随着经典的甜水镇 theme song，上演 Maeve 和 Hector 两人的故事线，也就是他们的 loop。前奏轻快的钢琴和沙锤声是梅芙和克莱门汀在酒吧的打趣闲聊，之后弦乐的加入，预示着 Hector 和蛇女的到来，增添了几分危机感，最后再回归纯钢琴，淡出。曲子放这了👇，边听边读，俨然有身临其境之感。国内的话记得开港澳台之外的梯子节点。
 
@@ -60,9 +54,7 @@ tags: ["影评"]
 
 每一季的片头曲中会放一些和本季重要剧情相对应的场景。本季的关键词是**笼子，焚烧，Delos 永生实验舱和苍蝇眼睛**。一个个不同的个体（大概是人类吧）被困在自己圆柱形牢笼内，试图打破逃出而不得，最终被焚烧其中。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-173248.jpg" width="80%" alt="密恐犯了">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-173248.jpg" width="80%" title="密恐犯了" >}}
 
 这个过程跟 S2 中 Delos 的永生实验很像，同样圆柱形的实验舱，实验体被困其中，而实验失败后实验体便会被牢笼中的火焰吞噬。而是否通过永生实验的条件是`Fidelity` ，即能否改变，打破循环，做出与之前 version 的自己不一样决定。剧中对人类自由意志是悲观的。正如威廉的女儿在 S2 季终彩蛋对威廉说的 `Every choice of yours leads to this situation.`，WW 认为**人类很难做出改变，（人类)无论被赋予多少次机会，依旧难以做出改变，找到自由意志。**
 
@@ -72,13 +64,11 @@ tags: ["影评"]
 
 S04E08 的标题 `Que Sera Sera` ，英文是 `Whatever will be, will be` ，中文 `顺其自热`，原曲是阿尔弗雷德 · 希区柯克的电影《擒凶记》中的女主角 Dorris Day [钢琴弹唱](https://www.bilibili.com/video/BV1qK411M7f7)。在剧中父女俩一起哼唱了这首歌，
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-093505.jpg" width="80%" alt="请允许我夸一下小粉的演技">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/17/20220817-093505.jpg" width="80%" title="请允许我夸一下小粉的演技" >}}
 
 不过我个人第一次听这首歌是年初在惊悚美剧 `From 梦魇绝阵` ，于是当 Caleb 父女哼唱这首歌的时候，属实有些跳戏。`From` 的片头附在这了，氛围营造的不错。~~希望大家看完后去补西部世界都能体会到我当时的毛骨悚然感。~~: )
 
-{% youtube man4IvqHIxE %}
+{{< youtube man4IvqHIxE >}}
 
 <br/>
 
@@ -88,41 +78,27 @@ S04E08 的标题 `Que Sera Sera` ，英文是 `Whatever will be, will be` ，中
 
 德妹是西部世界当之无愧的大女主。若用一句话概括她的 character image ，那便是 `I choose to see the beauty` 。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-161636.jpg" width="80%" alt="德妹的 motto">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-161636.jpg" width="80%" title="德妹的 motto" >}}
 
 第一季第二季的德妹是两面性的。光明面的德妹一直能看到世界的 beauty，黑暗面的德妹代号 Wyat，内心更多由之前受到的压迫和仇恨驱动，带来的是两个族群的毁灭。不过好在德妹有阳光大男孩泰迪，正如~~每位成功的女人背后都离不开善良朴实默默支持她的男人~~。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-170659.jpg" width="80%" alt="神仙爱情">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171254.jpg" width="80%" title="Every detail of you I cherish" >}}
 
 泰迪离开了德妹，便有了德妹第二季屠杀其他接待员时的 gone too far，因而最后泰迪以死明志，最终把德妹从仇恨的边缘拉回。德妹需要泰迪来 pull her back，需要泰迪唤醒自己心中的美好与善。这种关系像是黑袍纠察队中的 Butcher 和弟弟，或是星战中的安纳金和帕德梅，GOT 中的丹妮莉丝和小恶魔。能够成为唯一 hold you back 的人一定是至亲至爱，毕生能有如此之人，便是大幸。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171254.jpg" width="80%" alt="Every detail of you I cherish">
-
-<span class="image-caption"></span>
-
 德妹和泰迪互为 cornerstone，真的磕死。当两个人的爱情发展到只有和对方在一起才能 be the best of their selves ，彼此以对方为核心驱动力，那是人间理想了。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171452.png" width="80%" alt="一吻等四年">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171452.png" width="80%" title="一吻等四年" >}}
 
 德妹的故事还有一个关键词：**找寻**。德妹用整个第一季觉醒，找寻自己存在的意义。第二季失去了父亲，泰迪，战友，差点走向黑暗，但最终把路走通，真正长大。第三季按照 grand plan 牺牲自己解放全人类。第四季看到又回归单纯的德妹，真的有种看女儿长大的感觉。单纯的德妹很能让人 relate to 。毕竟，**we are all little girls searching for meanings of life **。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171815.jpg" width="80%" alt="年度最佳鸡汤">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-171815.jpg" width="200%" title="年度最佳鸡汤" >}}
 
 ## 夏洛丽丝：异体同心
 
 夏洛丽丝是第三季德妹的分身，剧组借鉴了来源佛教的一个概念 [Itai doshin](https://nstmyoshinji.org/terminology/itai-doshin/) ，即 `Many in Body, One in Mind` 。第三季把这个概念玩的飞起，当时 S3E04 `Mother of Exile` plot reveal 的时候引发了一波社交媒体热潮。而每个德妹的分身也受自己人类躯壳性格的影响，遂有了夏洛丽丝承受不了德妹的弃子安排，堕入黑暗。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-165322.jpg" width="80%" alt="夏洛丽丝：一己之力玩坏世界">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-165322.jpg" width="80%" title="夏洛丽丝：一己之力玩坏世界" >}}
 
 夏洛丽丝也是德妹没有泰迪 Hold Back ，因仇恨失去理智走向极端的一面。不过很令人遗憾的是，第四季只字未提第三季遗留的四个德妹分身，等了一整季上季德妹分身的下落，最后大结局草草收尾。大概是剧组打的安全牌吧，毕竟还不知道能不能有第五季，不敢玩太大。
 
@@ -134,21 +110,16 @@ William 是 WW 系列中人物塑造最丰满的人类角色。威廉开局没�
 
 那么究竟是什么改变了老好人威廉呢？在第一季和第二季中分别有两个 character defining moment。S1 季初的威廉对德妹一见钟情，百般爱护，在经历千般冒险之后和德妹走散，再见时德妹已经被重置，先前培养的种种共同记忆清零。S2 季中威廉成为黑衣人之后，遇到了因母亲自杀去世想来找自己问清楚的女儿。威廉本不想把女儿卷进自己的世界，但在恍惚中把女儿认作是乐园里的接待员，情急之下误杀。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-004119.png" width="80%" alt="威廉：五十年前妹子对我说的话我还记得">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-004119.png" width="80%" title="威廉：五十年前妹子对我说的话我还记得" >}}
 
 所以 S04E07 中把威廉选为大 Boss ，让他来担任两个种族共同的敌人，这个选择我是满意的。**威廉是虚无主义的代表，和德妹的经历告诉他 nothing lasts forever ，亲手杀死女儿又让他失去了对尘世最后的留恋。威廉是人性中的 pure evil 的代表，正是这样毫无牵挂，只有血腥和杀戮能给他的情绪带来一些波动的人，才能担当灭绝人类和接待员两族之大任。**
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-151219.png" width="80%" alt="Delos 永生计划没有成功过">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-151219.png" width="80%" title="Delos 永生计划没有成功过" >}}
 
 前面说到接待员对于人类意志的继承，S4 中接待员威廉心里是夏洛丽丝的 copy，但最终却继承了威廉的的 spirit。剧中解释是用了谁的 body，便不可避免受这个 body 主人性格的影响，自然无可厚非。我以为可以和第二季 Delos 的永生计划联系起来思考。把人类的心智装在 Host 身体永远无法兼容，同样把 Host 心智装在人类身体也会逐渐被身体原来的主人 take over，无法活出自己。**大抵是想表达人类和接待员终究是两个物种，人类想通过接待员身体实现永生，或是接待员想通过假扮人类统治世界，在宏观尺度上都是 cross boundary 的行为。各走各的路，才能各自安好。**
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-003722.png" width="80%" alt="想不到吧，我也是德妹">
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-003722.png" width="80%" title="想不到吧，我也是德妹" >}}
 
-<span class="image-caption"></span>
 
 不过这个理论有个 exception，便是 WW 世界中和福特比肩的重量级人物 Bernard，我们下一节说。
 
@@ -156,9 +127,7 @@ William 是 WW 系列中人物塑造最丰满的人类角色。威廉开局没�
 
 伯纳德的起源故事很有意思。他是西部世界联合创始人 Arnold 的接待员版本，但不同于其他失败的人类接待员是通过采集 Behavioral Data 来还原心智，Bernard 是通过德妹的记忆一言一举还原的。为什么德妹的记忆这么靠谱呢？因为 Arnold 在儿子去世之后全身心的投入一代接待员的开发之中，而德妹作为初代机，和当时的 Arnold 朝夕相处。**所以 Bernard 的心智球是红黑相间的，红色代表人类，黑色代表接待员。伯纳德是人类和接待员共存的现身代表。**
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-143758.jpg" width="80%" alt="说话的是德妹">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-143758.jpg" width="80%" title="说话的是德妹" >}}
 
 伯纳德和德妹是决定两个族群未来的两个重要角色。伯纳德的代号是 `The Passenger` （S2E10 标题），德妹则是 `The Storyteller` （S4E7 德妹用户名）。伯纳德哪都去过，是联系 host、human、sublime 的桥梁，因此是 passenger。而德妹第二季读取了乐园里所有游客的 data，第四季又读取了全世界人类的 data。两个族群的过去，现在和未来都在德妹脑子里，因此是 story teller 。
 
@@ -166,23 +135,19 @@ William 是 WW 系列中人物塑造最丰满的人类角色。威廉开局没�
 
 先知谁都能当，把泰迪从虚拟世界拉出来也能做这个工作。而**伯纳德和其他任何人类或接待员不一样的地方正是在他身为 Host，core drive 却是 for the good of human kind 。他为 Delos 永生计划提供了 alternative 思路。从他的身上才能看见两个种族和平相处的希望，he is the key to everything 。** 可惜第三第四季的编剧 is not even close from seeing 这些之前铺垫好的角色价值。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-143711.jpg" width="80%" alt="第二季季终就预示了两人结局">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-143711.jpg" width="80%" title="第二季季终就预示了两人结局" >}}
 
 ## 梅芙：The most human host
 
 如果说德妹和伯纳德（还有前两季的 Akecheta）在 WW 中的角色定位是 savior，是亦或掀竿革命，亦或普渡众生的大家角色，梅芙的角色定位则一直是小家。所以一直以来我们最能和梅芙产生共情，因为她的 character core drive 是亲情，是对女儿的爱。梅芙的另一大特点是有情有义，很像是东方文化里的侠客。第二季特地给她安排了一个日本文化版的 counterpart，也是对她这样形象的 reinforcement。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-135818.jpg" width="80%" alt="梅芙和梅芙">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-135818.jpg" width="80%" title="梅芙和梅芙" >}}
 
 第一季季末，当梅芙杀出重围，有了逃出 WW，去往人类世界的机会时，发现这一切依旧是 Ford 在背后给她设定好的故事线，甚至包括她对女儿的牵挂。然而历经千难万险，在自己有了选择，freedom and love 之前，她毅然选择了 love。第四季，一句答应为小粉照顾女儿，便是跨越三十年的承诺，以命相许。
 
 **In the end，很多 post-apocalyptic 作品给出 the solution to saving humanity 很简单，all we need is love。**
 
-{% youtube _7xMfIp-irg %}
+{{< youtube _7xMfIp-irg >}}
 
 <br/>
 
@@ -192,29 +157,21 @@ William 是 WW 系列中人物塑造最丰满的人类角色。威廉开局没�
 
 聊小粉和女儿之前，得先搞清楚他们的角色定位，毕竟是第三第四季引入的新角色。小粉和威廉是到第三季主角团唯二幸存的人类。小粉和威廉完全相反，他是 Outliers 的代表，代表对宿命论的反抗和人性中的善（参见他在第三季军营中的回忆线）。而第四季引入小粉和女儿则是人类这边纯朴亲情的代表。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-131547.png" width="80%" alt="小粉版 Love you 279 times">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-131547.png" width="80%" title="小粉版 Love you 279 times" >}}
 
 西部世界主角团真实人均宝贝女儿哈，夏洛丽丝和女儿，梅芙和女儿，威廉和女儿，小粉和女儿，伯纳德和 … ~~终于是儿子了~~。主角团下一代的遭遇往往都是主角们的 character defining moment。前面说了小粉和威廉是人类希望和毁灭的代表，这里还有一个有趣的 compare and comparison。Frankie 和接待员版本的小粉见面对应威廉和（他以为是接待员实际是人类的）女儿见面。**同样是几十年杀戮，以及和 Host 势不两立的恨，Frankie 选择接纳父亲，给接待员版本的父亲一个救赎自己，完成几十年前原版小粉的未竟之志的机会。**而威廉则沉浸于杀戮带来的嗜血快感，亲情已经无法救赎他。**所以你看，WW 系列固然对人类悲观，但也偷偷藏了不少希望。**
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-133515.jpg" width="80%" alt="小粉的坦白，这段看泪目了">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-133515.jpg" width="80%" title="小粉的坦白，这段看泪目了" >}}
 
 因此，小粉和女儿的角色设定把 WW 系列从对人类完全悲观的极端往回拉了一些。在充满血腥暴力的剧中，有这样的温情，我认为是很有必要的。另外这季 Frankie 的演员演的也特别棒，父女重逢这场戏两人互飙演技，爱了爱 了。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-133847.jpg" width="80%" alt="每位父母最大的心愿">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-133847.jpg" width="80%" title="每位父母最大的心愿" >}}
 
 ## 锤哥：永远的陪跑
 
 锤大哥也是一个很有趣的角色，一开始以人类身份出场，第二季最后揭示他一直以来都是福特安插的间谍。不过和其他 Host 不一样的是，他作为同样没有觉醒（至少在第二季末）的 Host， 一开始就知道自己是接待员，也知道自己的 core drive 是 for the good of his own kind。本身他的觉醒是一个值得挖掘的点，可惜直到第四季他都还只是一个工具人。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/16/20220816-205300.png" width="80%" alt="锤大哥为数不多的高光时刻">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/16/20220816-205300.png" width="80%" title="锤大哥为数不多的高光时刻" >}}
 
 四季以来一直是人是 Host 都在秀，只有锤哥在挨揍。这张高光后的20s，陪伴咱们四季的锤大哥也草率下线了。编剧真的无脑发盒饭。~~无能狂怒。~~
 
@@ -240,9 +197,7 @@ William 是 WW 系列中人物塑造最丰满的人类角色。威廉开局没�
 
 而 WW S1、S2 正是抓住了这一点，成功地塑造了一批立体，有血有肉的人物，讲了两段环环相扣，惊心动魄的故事（福特死前和死后）。There is still so much to talk about 。这里挖个坑，待三刷 S1、S2 之时把德妹，威廉，以及其他 Character Arc 丰满的人物成长路线单独拿出来聊聊。希望哪怕不喜欢科幻标签的朋友们也能吃上安利，补上这部剧，大家一起畅聊自己的解读。
 
-<img src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-003423.png" width="80%" alt="最后放一张泰迪美照镇楼">
-
-<span class="image-caption"></span>
+{{< figure src="https://raw.githubusercontent.com/Maizehsu/FigureBed/main/asset/2022/08/18/20220818-003423.png" width="80%" title="最后放一张泰迪美照镇楼" >}}
 
 编剧给第五季挖了个大坑，认为拯救一切的 key 在于德妹和德妹脑子里全人类的数据，需要跑 some kind of test 来拯救两个种族的未来。~~我看就是为了下一季软重启回到西部世界吃老本讨好粉丝。~~ 是个很新颖的角度，值得展望一下，不过本文篇幅原因，先不展开了。我还是一直坚持 Bernard 才是 the key to everything，不过看 s04e07 分给 Bernard 的时长，应该是领盒饭了，实在令人叹息。
 
