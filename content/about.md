@@ -1,15 +1,12 @@
 ---
-date: 2022-11-28 24:00:00
-updated: 2023-08-01 24:00:00
-cover: https://raw.githubusercontent.com/maizehsu/FigureBed/main/asset/2024/03/26/20240326140645.jpg
-toc: true
+title: "About Me"
+date: 2022-11-28T23:59:59+08:00
+updated: 2023-08-01T23:59:59+08:00
 ---
 
 > Three passions, simple but overwhelmingly strong, have governed my life: the longing for love, the search for knowledge, and unbearable pity for the suffering of mankind.
 >
 > *What I Have Lived For* —— by Bertrand Russell
-
-## 👨‍💻 About Me
 
 Hihi 👋 I'm **Mai**, a software engineer by profession, a guitarist by passion, and a minimalist at heart. I'm on the way of becoming the parent of two Siberian Cats.
 
