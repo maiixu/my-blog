@@ -1,8 +1,8 @@
-baseURL = "https://example.org/"
+baseURL = "https://maixuu.com/"
 languageCode = "en-us"
 title = "Mai's Blog"
 theme = "archie"
-copyright = "© Athul"
+copyright = "© Mai"
 
 # Code Highlight
 pygmentsstyle = "monokai"
@@ -21,19 +21,19 @@ paginate=3 # articles per page
 # Social Tags
 
 [[params.social]]
+name = "Email"
+icon = "mail"
+url = "mailto:maizehsu02@gmail.com"
+
+[[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "github.com/maizehsu"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://twitter.com/athulcajay/"
-
-[[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
+name = "Douban"
+icon = "film"
+url = "douban.com/people/maixu02/"
 
 # Main menu Items
 
